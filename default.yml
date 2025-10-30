@@ -21,7 +21,7 @@ org_settings:
   org_info:
     org_name: Go Blue Jays
   webhook_settings:
-    activites_webhook:
+    activities_webhook:
       enable_activities_webhook: true
       destination_url: https://webhook.site/fdb9f064-e948-4b31-9670-b09896737fa3
   secrets:
